@@ -25,13 +25,15 @@ This app features all the latest tools and practices in web development!
 - 💹 **Node Js** — A web framework for Node Js
 
 ## Getting started
-
+<br>
 $ git clone https://github.com/jucimarvine/Sistema_Ong11.git
+<br>
 $ cd Back_End
+<br>
 $ npm start
-
+<br>
 $ cd Front_End
 $ npm start
-
+<br>
 
 
