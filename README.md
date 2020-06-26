@@ -12,7 +12,7 @@ THE BE HERO
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://github.com/jucimarvine/Sistema_Ong11/blob/master/Front_End/src/assets/ProjetoONG.gif" height="425">
+  <img src="https://github.com/jucimarvine/Sistema_Ong11/blob/master/Front_End/src/assets/heroes.png" height="425">
 </div>
 
 <hr />
