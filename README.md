@@ -26,4 +26,12 @@ This app features all the latest tools and practices in web development!
 
 ## Getting started
 
-Describe here the way to use/install your project
+$ git clone https://github.com/jucimarvine/Sistema_Ong11.git
+$ cd Back_End
+$ npm start
+
+$ cd Front_End
+$ npm start
+
+
+
