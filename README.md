@@ -1,8 +1,8 @@
-# Sistema_Ong
+# Sistema ONG 
 
 <h1 align="center">
 <br>
-  <img src="https://github.com/jucimarvine/Sistema_Ong11/blob/master/Front_End/src/assets/heroes.png" alt="THE BE HERO" width="120">
+  <img src="https://github.com/jucimarvine/Sistema_Ong11/blob/master/Front_End/src/assets/logo.svg" alt="THE BE HERO" width="120">
 <br>
 <br>
 THE BE HERO
