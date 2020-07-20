@@ -24,16 +24,3 @@ This app features all the latest tools and practices in web development!
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 - 💹 **Node Js** — A web framework for Node Js
 
-## Getting started
-$ git clone https://github.com/jucimarvine/Sistema_Ong11.git
-<br>
-$ cd Back_End
-<br>
-$ npm start
-<br>
-$ cd Front_End
-<br>
-$ npm start
-<br>
-
-
