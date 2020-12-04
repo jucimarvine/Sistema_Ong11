@@ -8,7 +8,7 @@
 THE BE HERO
 </h1>
 
-<p align="center">O Sistema the be hero tem a função de receber doações e com isso ajudar quem precisa</p>
+<p align="center">Sistema desenvolvido no bootcamp da rocketseat com o intuito imergir na stack JavaScript. O Sistema the be hero tem a função de receber doações e com isso ajudar quem precisa</p>
 
 [//]: # (Add your gifs/images here:)
 <div>
